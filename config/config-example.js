@@ -74,7 +74,7 @@ exports.reportjoins = true;
 //   Set this to a positive amount of milliseconds if you want to enable this feature.
 exports.reportjoinsperiod = 0;
 
-// report battles - shows messages like "OU battle started" in the lobby
+// report battles - shows messages like "OU battle started" in the lobbyc
 //   This feature can lag larger servers - turn this off if your server is
 //   getting more than 160 or so users.
 exports.reportbattles = true;
@@ -158,6 +158,7 @@ exports.herokuhack = false;
 // displayed in the client.
 exports.customavatars = {
 	//'userid': 'customavatar.png'
+	.Azuko' : '2013.png':
 };
 
 // appealurl - specify a URL containing information on how users can appeal
